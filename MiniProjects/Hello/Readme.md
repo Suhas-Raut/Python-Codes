@@ -12,5 +12,5 @@ Hello World!
 ```
 
 
-#Author
+## *Author*
 [Suhas Raut](https://github.com/Suhas-Raut)
