@@ -18,5 +18,5 @@
 
 ## Contributors ❤️
 <a href = "https://github.com/Suhas-Raut/Simple--Python-MiniProjects/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Suhas-Raut/Simple--Python-MiniProjects"/>
+  <img src = "https://contrib.rocks/image?repo=Suhas-Raut/Simple-Python-MiniProjects"/>
 </a>
