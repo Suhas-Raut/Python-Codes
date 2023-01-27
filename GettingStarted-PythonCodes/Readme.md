@@ -1,8 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge)
 # Start Learning Python By Programming Simple Python Codes⭐
-### Practice Everyday💻
-### Be Consistent 
+- Practice Everyday💻
+- Be Consistent 
 
 
 ## Contributors ❤️
