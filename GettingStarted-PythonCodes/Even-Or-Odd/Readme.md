@@ -18,7 +18,7 @@ The Given Number is Even.
 - Input 📥 
 ```
 Enter The Number To Check Is It Even or Odd
-Enter The Number To Check : 22
+Enter The Number To Check : 23
 ```
 
 - Output 📤
