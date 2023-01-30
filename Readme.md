@@ -3,8 +3,13 @@
 
 
 # Simple Python Mini Projects
-- In this repository you will get to know about Simple Mini Projects In Python 💻.
+- In this repository you will get to know about Getting Started Python Codes, Simple Mini Projects And Learning Resources of Python 📚💻.
 
+
+# Resources To Learn 
+- Angela Yu [Course Link 📌🔗](https://www.udemy.com/course/100-days-of-code/)
+- Tech With Tim [Python Tutorials Playlist ▶🔗](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
+- freeCodeCamp.org [Python Courses Playlist ▶🔗](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
 
 
