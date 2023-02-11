@@ -29,7 +29,7 @@ Output:
 
 To Run Code :
 ```
-python dashed-line.py
+python dashed-lines.py
 ```
 
 Output:
