@@ -34,5 +34,5 @@ python dashed-line.py
 
 Output:
 
-<img align="center" alt="coding" width="800" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Output2.png">
+<img align="center" alt="coding" width="800" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Output3.png">
 
