@@ -5,22 +5,10 @@
 
 ## Square 🔳
 
-Code : 
+To Run Code : 
 ```
-from turtle import Turtle, Screen
-
-bob = Turtle()
-bob.shape("arrow")
-bob.pencolor("Red")
-bob.pensize(5)
-for i in range(4):
-    bob.forward(100)
-    bob.right(90)
-
-
-screen = Screen()
-screen.exitonclick()
-
+python square.py
 ```
 Output :
+
 <img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Output1.png">
