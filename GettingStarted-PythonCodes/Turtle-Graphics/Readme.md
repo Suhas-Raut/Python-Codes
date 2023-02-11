@@ -3,7 +3,7 @@
 
 # Turtle Graphics 
 
-- Square 🔳
+##  Square 🔳
 
 To Run Code : 
 ```
@@ -13,7 +13,8 @@ Output :
 
 <img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Output1.png">
 
-- Circle
+## Circle ⭕
+
 TO Run Code :
 ```
 python circle.py
