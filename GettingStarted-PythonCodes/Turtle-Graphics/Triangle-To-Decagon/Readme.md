@@ -6,4 +6,4 @@
 
 - Output:
 
-
+<img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Triangle-To-Decagon/output.png">
