@@ -7,3 +7,7 @@
 - Output:
 
 <img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Generate-A-Random-Walk/output.png">
+
+- Output: (By Using Random Colors)
+
+<img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/Python-Codes/blob/master/GettingStarted-PythonCodes/Turtle-Graphics/Generate-A-Random-Walk/output2.png">
